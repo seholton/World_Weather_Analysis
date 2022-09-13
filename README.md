@@ -6,6 +6,7 @@ Project Overview
 - Deliverable 3: Create a Travel Itinerary Map
 
 Steps
+-
 - Collect data for City, country, date, latitude, longitutde, max tamp, humidity, cloudiness, wind spped, hotel names, weather description, exploratory analysist, customer Travel Destination Map. 
 
 
