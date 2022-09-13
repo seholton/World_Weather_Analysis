@@ -7,7 +7,7 @@ Project Overview
 
 Steps
 -
-- Collect data for City, country, date, latitude, longitutde, max tamp, humidity, cloudiness, wind spped, hotel names, weather description, exploratory analysist, customer Travel Destination Map. 
+- Access data through Google Maps API and collect data on City, country, date, latitude, longitutde, max tamp, humidity, cloudiness, wind spped, hotel names, weather description, exploratory analysist, customer Travel Destination Map. 
 
 
 Review
